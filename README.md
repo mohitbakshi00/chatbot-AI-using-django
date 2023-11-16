@@ -1,7 +1,9 @@
 # chatbot-AI-using-django
 chatbot AI chatbot AI using django and openAi API
 
-# Steps
+# Steps 
+
+NOTE: python and django should be intsalled on local machine before following the steps given below
 
 1. git clone https://github.com/mohitbakshi00/chatbot-AI-using-django.git
 2. cd chatbot_openAi
